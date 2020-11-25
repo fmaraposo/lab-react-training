@@ -1,0 +1,16 @@
+.idCard {
+    display:flex;
+    margin: 20px;
+    border: 1px solid black;
+    
+}
+
+.idCard-img img {
+    height: 90%;
+    margin: 10px;
+}
+
+.idCard-details {
+    margin-left: 70px;
+    text-align: justify;
+}
